@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50037f1e-da59-4ceb-ab97-5dea2142e799" name="Changes" comment="13/02">
-      <change afterPath="$PROJECT_DIR$/1/cursor47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/cursor60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/location2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/location3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/q1marker2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/q1marker3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/q1marker4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/questAC2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/questAC3.png" afterDir="false" />
+    <list default="true" id="50037f1e-da59-4ceb-ab97-5dea2142e799" name="Changes" comment="13/02 - 2">
+      <change afterPath="$PROJECT_DIR$/1/hpFull.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1/current.png" beforeDir="false" afterPath="$PROJECT_DIR$/1/current.png" afterDir="false" />
     </list>
@@ -87,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707812933492</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="13/02 - 2">
+      <option name="closed" value="true" />
+      <created>1707847549830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707847549830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28.01" />
     <MESSAGE value="13/02" />
-    <option name="LAST_COMMIT_MESSAGE" value="13/02" />
+    <MESSAGE value="13/02 - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/02 - 2" />
   </component>
 </project>
