@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50037f1e-da59-4ceb-ab97-5dea2142e799" name="Changes" comment="28.01">
-      <change afterPath="$PROJECT_DIR$/1/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/acceptQ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/current.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/enemyBar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/inFight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/inGame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/location1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/q.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/q1marker1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/quest1statusComplete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/quest1statusOngoing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/questAC1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/questInRange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/questNotInRange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/secondMangleWhite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/targetEnemy.png" afterDir="false" />
+    <list default="true" id="50037f1e-da59-4ceb-ab97-5dea2142e799" name="Changes" comment="13/02">
+      <change afterPath="$PROJECT_DIR$/1/cursor47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/cursor60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/location2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/location3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/q1marker2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/q1marker3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/q1marker4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/questAC2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/questAC3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/current.png" beforeDir="false" afterPath="$PROJECT_DIR$/1/current.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706725127267</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="13/02">
+      <option name="closed" value="true" />
+      <created>1707812933492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707812933492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="28.01" />
+    <MESSAGE value="13/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/02" />
   </component>
 </project>
