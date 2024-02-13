@@ -5,6 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50037f1e-da59-4ceb-ab97-5dea2142e799" name="Changes" comment="28.01">
+      <change afterPath="$PROJECT_DIR$/1/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/acceptQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/current.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/enemyBar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/inFight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/inGame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/location1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/q1marker1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/quest1statusComplete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/quest1statusOngoing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/questAC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/questInRange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/questNotInRange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/secondMangleWhite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/targetEnemy.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706418717742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="28.01">
+      <option name="closed" value="true" />
+      <created>1706725127267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706725127267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
